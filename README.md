@@ -7,8 +7,7 @@
 
 ###Setup
 
-1. include eeplus-image-preview.js at the bottom of your EES head code
-2. then invoke setThumb('http://www.yoursite.com');
+Include eeplus-image-preview.js at the bottom of your EES head code
 
 ###Planned updates and improvements
 

@@ -4,7 +4,7 @@ EasyEdit.plugins.imagePreview = {
         EasyEditEventManager.bind('AssetFinderAfterInit', function() {
             $(document).on("click", "#ees_assetFinderBody a",
                 function(e) {
-                    setThumb();
+                    setThumb('http://www.yoursite.com');
                 });
         });
     }
